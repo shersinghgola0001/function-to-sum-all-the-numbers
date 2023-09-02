@@ -1,6 +1,6 @@
 def sum(n):
-    total = 0
+    total=0
     for i in n:
-        total += i
+        total+=i
     return total
-print(sum((8, 2, 3, 0, 7)))
+print(sum((8,2,3,0,7)))
